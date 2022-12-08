@@ -13,4 +13,3 @@ To run the Jupyter Notebook associated with this project, download the file and 
 Files in the repo include:
 * fetal_health.ipynb
 * README.md
-* .gitignore
